@@ -1,12 +1,39 @@
-# An awesome counter app built using React JS
+# Awesome React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a pratice project to learn React JS.
 
-Run `npm start` to run the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## What I have learned
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+- How to write Hello World using React
+- Components
+- Specifying Children
+- Embedding Expressions
+- Setting Attributes
+- Rendering Classes Dynamically
+- Rendering Lists
+- Conditional Rendering
+- Handling Events
+- Binding Event Handlers
+- Updating States
+- What Happens When State Changes
+- Passing Event Arguments
+- Composing Components
+- Passing Data to Components
+- Passing Children
+- Debugging React Apps using react developer tools extention
+- Props vs State
+- Raising and Handling Events
+- Single Source of Truth
+- Removing the Local State
+- Multiple Components in Sync
+- Lifting the State Up
+- Stateless Functional Components
+- Destructuring Arguments
+- Lifecycle Hooks
+- Mounting Phase
+- Updating Phase
+- Unmounting Phase
+- React Basics
 
 ## Demo
 
